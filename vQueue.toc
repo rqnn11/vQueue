@@ -1,6 +1,6 @@
 ## Interface: 11200
-## Title: vQueue
-## Author: Devlix
+## Title: vQueue2
+## Author: Rqnn, fork of vQueue by Devlix
 ## Notes: Utility for group finding.
 ## SavedVariables: MinimapPos, vQueueOptions, notCaught
 ## SavedVariablesPerCharacter: selectedRole, isFinding
